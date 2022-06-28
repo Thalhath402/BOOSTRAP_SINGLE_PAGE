@@ -1,0 +1,11 @@
+.bg{
+	background-image: url(img/sunset.jpeg);
+	background-size: cover;
+
+}
+i{
+font-size: 100px;
+}
+img{
+    height: auto;
+    width: 255px;}
